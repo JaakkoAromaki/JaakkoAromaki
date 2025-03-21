@@ -1,6 +1,6 @@
-# Hi there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=winky+sans&pause=1000&color=FFFFFF&width=435&lines=Hey%2C+Im+Jaakko)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! Here's a quick overview of my stats and activity:
+I do websites for small business owners in my area.
 
 ## 🚀 GitHub Stats
 
