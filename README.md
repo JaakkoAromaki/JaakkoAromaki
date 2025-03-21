@@ -5,7 +5,7 @@ I do websites for small business owners in my area.
 ## 🚀 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaakkoAromaki&show_icons=true&theme=radical)
-##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaakkoAromaki&layout=compact&theme=radical)
 
 ### Connect with me 🌐
