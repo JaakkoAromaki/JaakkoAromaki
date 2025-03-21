@@ -4,8 +4,8 @@ I do websites for small business owners in my area.
 
 ## 🚀 GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=JaakkoAromaki&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaakkoAromaki&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaakkoAromaki&show_icons=true&theme=transparent)
 
